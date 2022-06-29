@@ -1,0 +1,22 @@
+.image{
+    width: 250px;
+    border-radius: 15px;
+    margin-top: 5px;
+}
+.product{
+    border: 2px solid  rgb(225, 125, 247);
+    border-radius: 15px;
+    background-color: rgb(225, 125, 247) ;
+    padding: 5px 20px;
+}
+.btn-cart{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(254, 254, 254);
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.btn-text{
+    margin: 0px;
+    padding: 3px;
+    font-size: 20px;
+}

@@ -1,0 +1,82 @@
+[
+    {
+      "id": "101",
+      "name": "Black Stylish W3",
+      "price": 106,
+      "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1646.webp"
+      
+    },
+
+    {
+        "id": "102",
+        "name": "Red Chrono Graph",
+        "price": 99,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1646.webp"
+        
+      },
+
+      {
+        "id": "103",
+        "name": "Black Casio",
+        "price": 129,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1646.webp"
+        
+      },
+
+      {
+        "id": "104",
+        "name": "Golden Band Casio",
+        "price": 79,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1646.webp"
+        
+      },
+
+      {
+        "id": "105",
+        "name": "Blue Dial Casio",
+        "price": 69,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1646.webp"
+        
+      },
+
+      {
+        "id": "106",
+        "name": "Edifice Casio",
+        "price": 199,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1660.webp"
+        
+      },
+
+      {
+        "id": "107",
+        "name": "Green Rolex",
+        "price": 299,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1660.webp"
+        
+      },
+
+      {
+        "id": "108",
+        "name": "Brown Edifice",
+        "price": 159,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1660.webp"
+        
+      },
+
+      {
+        "id": "109",
+        "name": "Blue Fossil",
+        "price": 189,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1660.webp"
+        
+      },
+      {
+        "id": "110",
+        "name": "Black Fossil ",
+        "price": 149,
+        "img": "https://media.casioindiashop.com/assets/products-images/thumb-image/A1660.webp"
+        
+      }
+    
+  ]
+  

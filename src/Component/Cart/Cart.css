@@ -1,0 +1,18 @@
+.btn-choose{
+    color: green;
+    margin-bottom: 5px;
+    padding: 4px;
+    font-size: 15px;
+    font-weight: 600;
+    border: 2px solid green;
+    border-radius: 6px;
+}
+.btn-again{
+    color: rgb(255, 3, 83);
+    margin-bottom: 5px;
+    padding: 4px;
+    font-size: 15px;
+    font-weight: 600;
+    border: 2px solid rgb(255, 3, 83);
+    border-radius: 6px;
+}
